@@ -1,0 +1,39 @@
+/* 
+    Document   : css
+    Created on : 2013-mar-12, 15:37:31
+    Author     : kroon
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+*{
+    margin: 0 auto;
+}
+body{
+    background: white;
+    width:100%;
+}
+.content{
+ 
+}
+nav{
+    
+}
+header{
+   background:black;
+   width: 100%;
+   height: 100px;
+}
+h1{
+    color:white;
+    width:50%;
+    padding-top: 20px;
+    text-shadow: 1px 1px 1px darkgrey;
+    font-size: 40px;
+}
+footer{
+    
+}
+p{
+    color:black;
+}
